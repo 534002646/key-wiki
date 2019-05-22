@@ -16,6 +16,7 @@
 <b>软件截图：</b><br><br>
 主界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/16331126197019.png) <br><br>
 按键界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/163509098212096.png)<br><br> 
+钓鱼界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/16410112304038.png)<br><br> 
 开服监控：<br>![](https://github.com/534002646/key-wiki/blob/master/img/1623031187128116.png)<br><br> 
 关于：<br>![](https://github.com/534002646/key-wiki/blob/master/img/165702058412088.png)<br><br>
 <b>这是Github的下载页哦，以后新版本会在这里发布：</b><br>![](https://github.com/534002646/key-wiki/blob/master/img/16570204118101141.png)
