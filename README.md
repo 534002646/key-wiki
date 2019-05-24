@@ -1,6 +1,6 @@
 ## 按键速度最大化 按键录制 自动钓鱼 开服监控<br>
 <h3>下载地址</h3>
-<b>Github：</b>https://github.com/534002646/key-wiki/releases<br>
+<b>Github：</b>https://github.com/534002646/key-wiki/releases<br><br>
 <b>百度云：</b>https://pan.baidu.com/s/1cllFQk0cP_wORUNZrkgK3A    <b>提取码: </b>dv2k<br><br>
 
 <b>Jx3Tools交流群 => </b>
@@ -12,8 +12,8 @@
 <br>![](https://github.com/534002646/key-wiki/blob/master/img/20190520183854.png)<br><br>
 2.程序驱动文件会被杀毒软件误杀，请加入白名单，很多小伙伴缺少jx3tools.dll，如果缺少请重新下载程序<br>
 <br>![](https://github.com/534002646/key-wiki/blob/master/img/3113423678.png)<br><br>
-3.部分家庭版，企业版系统不兼容dd驱动，如果出现此错误获取按键没有效果，请切换驱动<br>
-<br>![](https://github.com/534002646/key-wiki/blob/master/img/189573920123.png)<br><br>
+3.部分家庭版，企业版系统驱动不兼容，安装错误，如果出现此错误或者按键没有效果，请切换驱动<br>
+<br>![](https://github.com/534002646/key-wiki/blob/master/img/189573920123123.png)<br><br>
 
 <b>程序截图</b><br>
 主界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/16331126197019.png) <br><br>
