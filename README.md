@@ -9,9 +9,13 @@
 
 <b>常见错误</b><br>
 1.运行程序需要安装.NET Framework，如果出现以下错误请下载安装，[点我下载](https://dotnet.microsoft.com/download/thank-you/net452)<br>
-<br>![](https://github.com/534002646/key-wiki/blob/master/img/20190520183854.png)<br><br> 
+<br>![](https://github.com/534002646/key-wiki/blob/master/img/20190520183854.png)<br><br>
+2.程序驱动文件会被杀毒软件误杀，请加入白名单，很多小伙伴缺少jx3tools.dll，如果缺少请重新下载程序<br>
+<br>![](https://github.com/534002646/key-wiki/blob/master/img/3113423678.png)<br><br>
+3.部分家庭版，企业版系统不兼容dd驱动，如果出现此错误获取按键没有效果，请切换驱动<br>
+<br>![](https://github.com/534002646/key-wiki/blob/master/img/189573920123.png)<br><br>
 
-<b>程序截图：</b><br>
+<b>程序截图</b><br>
 主界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/16331126197019.png) <br><br>
 按键界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/163509098212096.png)<br><br> 
 钓鱼界面：<br>![](https://github.com/534002646/key-wiki/blob/master/img/16410112304038.png)<br><br> 
