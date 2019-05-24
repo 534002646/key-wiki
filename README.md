@@ -1,4 +1,4 @@
-## 按键速度最大化 按键录制 自动钓鱼 开服监控<br>
+## 前台按键 按键录制 自动钓鱼 开服监控<br>
 <h3>下载地址</h3>
 <b>Github：</b>https://github.com/534002646/key-wiki/releases<br>
 <b>百度云：</b>https://pan.baidu.com/s/1cllFQk0cP_wORUNZrkgK3A    <b>提取码: </b>dv2k<br><br>
